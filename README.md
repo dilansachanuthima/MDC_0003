@@ -6,7 +6,7 @@
 <body>
 <center><h1>Bass Boosted Songs</h1></center><br><br>
 
-<center><img src="56.jpg"></center><br><br>
+<center><img src="56.jpg"></center><br>
 
 (01) Warriyo - Mortals.mp3<br><br>
 <audio controls>
