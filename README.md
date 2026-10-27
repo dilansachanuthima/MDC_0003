@@ -20,7 +20,7 @@
 
 <br><br>
 
-(03) JBL bass Test.mp3<br><br>
+(03) Extreme bass boost.mp3<br><br>
 <audio controls>
   <source src="Extreme bass boost! This will make your house shake!_320k.mp3">
 </audio>
