@@ -16,14 +16,28 @@
 (02) JBL bass Test.mp3<br><br>
 <audio controls>
   <source src="JBL bass Test.mp3">
-</audio>
-
-<br><br>
+</audio><br><br>
 
 (03) Extreme bass boost.mp3<br><br>
 <audio controls>
   <source src="Extreme bass boost! This will make your house shake!_320k.mp3">
+</audio><br><br>
+
+(04) Linkin Park - In The End.mp3<br><br>
+<audio controls>
+  <source src="Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix) (Bass Boosted)_320k.mp3">
+</audio><br><br>
+
+(05) Teriyaki Boyz - Tokyo Drift.mp3<br><br>
+<audio controls>
+  <source src="Teriyaki Boyz - Tokyo Drift [Bass Boosted]_320k.mp3">
+</audio><br><br>
+
+(06) TriBoss - Aqua Drop.mp3<br><br>
+<audio controls>
+  <source src="TriBoss - Aqua Drop (Deep Bass Test)_320k.mp3">
 </audio>
+
 
 
 </body>
